@@ -1,111 +1,121 @@
 ---
 layout: post
-title: "Beatmap Spotlights: June 2017"
-permalink: http://osunews.tumblr.com/post/163696707688/beatmap-spotlights-june-2017 
-date: 2017-08-02 01:00:00 +0000
-tumblr_url: http://osunews.tumblr.com/post/163696707688/beatmap-spotlights-june-2017 
+title: "Beatmap Spotlights: July 2017"
+date: 2017-08-30 01:00:00 +0000
 ---
 
 
-Demetori, Infected Mushroom, Seiryu, Krux and more in this month's [Beatmap Spotlights](https://osu.ppy.sh/p/chart?ch=MONTH1706)! Take a look, have a play, and maybe even win some osu!supporter tags while you're at it!
+Liz Triangle, Yunomi, MDK, LeaF and more in this month's [Beatmap Spotlights](https://osu.ppy.sh/p/chart?ch=MONTH1707)! Take a look, have a play, and maybe even win some osu!supporter tags while you're at it!
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-Each month, a selection of volunteers work alongside the Quality Assurance Team to pick out the best of the best for each mode. We reward the top beatmap in each category by providing **1 month of supporter status** to the mapper. **The June 2017 spotlight rankings will conclude on the 15th August 2017.**
+Each month, a selection of volunteers work alongside the Quality Assurance Team to pick out the best of the best for each mode. We reward the top beatmap in each category by providing **1 month of supporter status** to the mapper. **The July 2017 spotlight rankings will conclude on the 15th September 2017.**
 
 ## Past Spotlights results
 
-First of all, congratulations to the winners of the May 2017 Spotlights. They receive one month of supporter status for their efforts!
+First of all, congratulations to the winners of the June 2017 Spotlights. They receive one month of supporter status for their efforts!
 
 + **osu!:** [Toy](https://osu.ppy.sh/u/2757689)
-+ **osu!taiko:** [Quizmaegi](https://osu.ppy.sh/u/2228401)
++ **osu!taiko:** [Maitroxsk](https://osu.ppy.sh/u/4875451)
 + **osu!catch:** [_Asriel](https://osu.ppy.sh/u/566276)
-+ **osu!mania:** [Xcstasy](https://osu.ppy.sh/u/1306875)
++ **osu!mania:** [Cryolien](https://osu.ppy.sh/u/1626983)
 
 
 ## osu!
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/youkai-no-yama.jpg)](https://osu.ppy.sh/s/596079)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/myoujin-henka.jpg)](https://osu.ppy.sh/s/559843)
 
-Absolute mastery of a style at its finest. **[GoldenWolf](https://osu.ppy.sh/u/1612624)**'s latest marathon takes us on a journey through this epic piece by Demetori. The structure of the map is simple, yet refined. The gameplay experience is difficult, yet accompanies the song perfectly. And not to mention the classic meticulous GoldenWolf hitsounding! A well-deserved top placing on this month's charts.
+Placeholder
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/mahou-shoujo-chino.jpg)](https://osu.ppy.sh/s/458983)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/zauberkugel.jpg)](https://osu.ppy.sh/s/554892)
 
-After No Poi, **[Asahina Momoko](https://osu.ppy.sh/u/3650145)** returns again in 2017 to bring us more Chino - and good mapping. Asahina Momoko never sticks to the 'mapping-meta', and as such, all his maps are always different and interesting.
-
-With his particular style, he's managed to capture this song perfectly with innovative spacing usage to create varying intensities. His rhythm usage is top notch, being consistent enough to maintain playability, while having ample variation so it does not bore out the player with its length. You won't regret giving this one a good play through!
+Placeholder
 
 [![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/dorchadas.jpg)](https://osu.ppy.sh/s/580215)
 
 **[Delis](https://osu.ppy.sh/u/1603923)** continues to impress, taking yet another spot in this month's spotlights. The map perfectly represents the intensity changes in the song. Combined with great flow and variety, this makes an overall great experience. Definitely a map to check out!
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/hyadain.jpg)](https://osu.ppy.sh/s/554297)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/sayonara-heaven.jpg)](https://osu.ppy.sh/s/516995)
 
-This month, **[Okorin](https://osu.ppy.sh/u/1623405)** brings us a more modern re-map of an old favorite. The higher difficulties are captivating with some fun jumps and well-placed symmetry, though the lower difficulties manage to compare just as well, mirroring the song's interesting rhythm and building central themes and motifs to follow. This one's worth checking out for players of all skill levels.
+Placeholder
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/innocence.jpg)](https://osu.ppy.sh/s/557231)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/petals.jpg)](https://osu.ppy.sh/s/564354)
 
-Mapping a song which consists out of low BPM, strong vocals and an accompaniment of touching instruments isn't an easy task to do. However, **[appleeaterx](https://osu.ppy.sh/u/2407160)** has succeeded in doing so with this mapset. He has combined the perfect slider velocity, the right amount of note density and well-placed accents like slider slowdowns with a beautiful arrangement of hitsounds to ensure the best gameplay possible for a player. 
+**[toybot](https://osu.ppy.sh/u/2848604)** graces us once more with a charming rendition of Camellia's and Nanahira's latest artcore collaboration, Petals. The structure and patterns presented in the map are clean and polished, with a characteristic toybot stacking and blanketing style. 
 
-If you are bored of your generic anime-pp-jumpmap, definitely give this a try and experience an emotionally valuable beatmap.
+The rhythms are given enough thought to ensure they both represent the song, as well as allowing ample variation to keep player's on the edge of their seat. Supported by a dazzling storyboard by Kanari, this map beautifully captures the wonderful voice of Nanahira, while maintaining a secondary focus on the instrumental track of the song! Definitely deserves a place in this month's Spotlights!
+
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/heroine-syndrome.jpg)](https://osu.ppy.sh/s/603694)
+
+Placeholder
 
 ## osu!taiko
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/nutmeg.jpg)](https://osu.ppy.sh/s/619832)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/soumatou-labyrinth.jpg)](https://osu.ppy.sh/s/625493)
 
-It's not too uncommon for one mapper to top the charts twice. It's happened several times already, but **[Hanjamon](https://osu.ppy.sh/u/1703330)**'s managed to do it again with an exceptional beatmap set to Infected Mushroom's Nutmeg.
+The winner of the osu!taiko spotlights this month is no one else but **[komasy](https://osu.ppy.sh/u/1980256)**! Soumatou Labyrinth provides an extremely solid and consistent spread from Kantan to Inner Oni which will satisfy players of any skill level. Special shoutout to the Inner Oni that makes use of very intuitive 1/6 snappings while keeping an overall high difficulty with the usage of complex rhythms, suiting the song perfectly. A well deserved first place!
 
-This seven minute long map features all kinds of things, from typical 1/4-snapped sections (the common snapping in Oni difficulties), to more tricky combinations with 1/6 and 1/8 snaps, mixed together with a high amount of slider velocity changes to highlight the varying power of each of the song's sections. Another noteworthy aspect of this map is the usage of a pattern, that has become less common in recent maps - the long monocolor 1/6. All around a worthy number one slot for this month's charts.
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/necrophagiatoast.jpg)](https://osu.ppy.sh/s/567504)
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/teriqma.jpg)](https://osu.ppy.sh/s/615774)
+While the titular practice of feasting on corpses is enough to send shivers down one's spine, a toast towards the act crosses boundaries further still. In this month's Spotlight, **[_yu68](https://osu.ppy.sh/u/6170507)**'s Necrophagiatoast breaks new ground in more ways than one. Not only is this the first time we see Kobaryo featured in the ranked section, the mapset also possesses a difficulty with the highest star rating among ranked maps in osu!taiko, superseding Galaxy Collapse as the previous titleholder for the first time in 20 months.
 
-**[Charlotte](https://osu.ppy.sh/u/3686901)** sure has been popular in the osu!taiko spotlights these last months, and rightfully so! Once again providing the ranked section with a great mapset, featuring as always a flawless structure and a perfect 1/6 snapping usage in the Inner Oni, it deserves the attention of osu!taiko players this month!
+Comprising of 6 difficulties ranging from Futsuu to Destructive Nightmare, this mapset is an outstanding example of how high bpm maps should be handled. In spite of the song's chaotic nature, _yu68 expertly interweaves a congruent flow into his own map, making it extremely fun and satisfying to play. This map certainly isn't one for the faint-hearted though, and will definitely give all players a real challenge!
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/blinded-in-chains.jpg)](https://osu.ppy.sh/s/536955)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/click-soleily-remix.jpg)](https://osu.ppy.sh/s/609391)
 
-He might be a rookie, but **[gaston_2199](https://osu.ppy.sh/u/5938161)** mapset is no less impressive despite his relative inexperience at mapping, boasting a solid structure with common patterning to boot. Combining different patterns within the same structure, he manages to create a map that highlights the melody of the song without being boring, highlighting a big emphasis on streams coupled with hitsounds tied closely to the music itself. In conclusion, the map is well structured and could be a good model to learn how to map an osu!taiko map on this kind of song.
+A cool map from **[iloveyou4ever](https://osu.ppy.sh/u/4964596)** this month! This approved difficulty sufficiently utilizes characteristic sound effects of Soleily present in the song as the framework of mapping, making pattern arrangement clean and consistent. Streams of moderate length in the transition periods accompany the music pretty well, which add spices to the overall map structure. 
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/we-are-number-one.jpg)](https://osu.ppy.sh/s/547301)
+Slider velocity alterations are also natural and intuitive, fitting the pace of the song accordingly. I am sure you can find it interesting and have a simple stream practice through playing this beatmap.
 
-Following the immense popularity of the song "We Are Number One", this Dunderpartrullen remix offers an even catchier rhythm in addition to the already memorable tune. **[Midnaait](https://osu.ppy.sh/u/1506011)**'s mapset capitalizes on this extremely well, offering a wide selection of fun difficulties to play, with contributions from guest mappers Lno and Kantan.
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/cry-thunder.jpg)](https://osu.ppy.sh/s/500752)
 
-In his flagship Number Oni difficulty, Midnaait shows off the most diverse range of technical snappings. Minute slider velocity changes are used in conjuction with this to keep everything flowing smoothly. Particularly impressive to note was his stylistic placement of 1/8th doublets throughout - this complemented well with the quirky nature of the song, and gave it an extra "kick" to make the map all the more enjoyable.
+It's time to Cry Thunder! **[Surono](https://osu.ppy.sh/u/3611370)** is storming this month's spotlights with a 1/3 and 1/6-snap filled song by DragonForce! Using the aforementioned uncommon 1/3 snap as the song's main rhythm, Surono has created a map that becomes noteworthy simply by using these snaps. Mixed together with solid drum mapping and guitar solos, he has made a very respectable entry into this month's Spotlight.
+
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/my-so-called-life.jpg)](https://osu.ppy.sh/s/627934)
+
+Finally, three years after the first Venetian Snares song has been ranked in osu!standard, osu!taiko has finally gotten a ranked map of this breakcore artist as well, and it has proven to work very nicely.
+
+Difficult rhythms, dense patterns, streams and various combined note snaps: My So-Called Life has everything, and **[Raiden](https://osu.ppy.sh/u/2239480)** has combined them all into an amazing map. Also, don't get fooled by the long calm section in the first third of the song - the difficulty quickly ramps up as the song enters its more intense parts.
+
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/sayonara-memories.jpg)](https://osu.ppy.sh/s/606364)
+
+There's a great Ranked song which has been mapped by **[Akemi_Homura](https://osu.ppy.sh/u/707980)** on July! However, The simple 1/2 + 1/4 patterns are neatly mapped with appropriate consistency and each song parts were divided very well by map pattern itself, so it makes really interesting while playing! and it would be good to use as practice pattern of Double Time since there's less difficulty parts, but many rest parts. I'm pretty sure that many people can enjoy this map!
 
 ## osu!catch
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/ultramarine.jpg)](https://osu.ppy.sh/s/275991)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/fingerbang.jpg)](https://osu.ppy.sh/s/559525)
 
-With enjoyable mapping and unique rhythms, **[ZiRoX](https://osu.ppy.sh/u/200768)** and fellow collaborators **[Ascendance](https://osu.ppy.sh/u/2931883)** and **[Spectator](https://osu.ppy.sh/u/702598)** have created a map that challenges the player's reading skills yet is consistent. Spectator's Abyss provides a pleasant reading challenge with circle zize 5 as well as some custom hitsounds that add to the atmosphere of the map. Rain catches attention with it's lower approach rate of 8.7 and dash patterns that are usually uncommon in the current meta. While Cup, Salad and Platter are more standard offerings gameplay wise, they are still enjoyable to play.
+Placeholder
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/mahou-shoujo-chino_osucatch.jpg)](https://osu.ppy.sh/s/458983)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/yuragi.jpg)](https://osu.ppy.sh/s/602506)
 
-Making an appearance alongside **[Asahina Momoko](https://osu.ppy.sh/u/3650145)**'s spotlight worthy osu! difficulty, veteran mapper **[Minato Yukina](https://osu.ppy.sh/u/531253)** (previously known as CLSW) showcases his experience of catch mapping with a map that does a wonderful job of expressing the intricate rhythms of this cute and upbeat song. While it's not quite at the level of difficulty many players have to come know his maps for its still sure to provide a challenge for all but the best catch players.
+**[JBHyperion](https://osu.ppy.sh/u/4879508)** has given us a solid mapset that shows mastery of balanced play-ability and flow. While it may comply with the standard settings of modern mapping, this map sets itself apart with solid flow and entertainment value. Great job!
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/syncretism.jpg)](https://osu.ppy.sh/s/514144)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/sad-machine.jpg)](https://osu.ppy.sh/s/380329)
 
-It takes skill to make an interesting map out of a simple song, but **[RoseusJaeger](https://osu.ppy.sh/u/6709840)** has achieved that nicely here. Each difficulty features a variety of instrumental and vocal rhythm choices, layered together in a clean, fun and intuitive way, resulting in a beatmap set that is relaxing and fun to play for players of all skill levels. The creative use of 1/6 patterns adds some variety and character, helping this set to stand out among the many available choices in what has undoubtedly been a very productive month for osu!catch mapping.
+When you think of "marathons" in osu!catch, a Platter difficulty at 88.5 BPM doesn't typically spring to mind, but **[- Magic Bomb -](https://osu.ppy.sh/u/3071175)** has brought something unique and different here with just such a map. 
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/moonlight-tango.jpg)](https://osu.ppy.sh/s/536001)
-
-Mapping lower BPM certainly brings its own challenges in osu!catch but **[JBHyperion](https://osu.ppy.sh/u/4879508)** has made it look near effortless here. Making excellent use of absolutely everything at his disposal, dashes, hyperdashes, anti-flow and some fairly unique stream patterns, it all comes together to represent the music fantastically whilst still being a real delight to play across all difficulties. Once again he delivers a level of quality every catch mapset should aspire to achieve.
+Despite the lower difficulty level, the map offers a wide variety of patterns and emphasis to keep the player interested over the course of almost six minutes, from short and sharp dashes on synth and percussion sounds, to long, twisting vocal-mapped sliders. Each section of the map is pitched well to the emotion and intensity of the music, resulting in a relaxing yet enjoyable experience that can provide a test of stamina to less-experienced players.
 
 ## osu!mania
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/illusion-of-inflict.jpg)](https://osu.ppy.sh/s/529574)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/I.jpg)](https://osu.ppy.sh/s/426638)
 
-This time, **[Reba](https://osu.ppy.sh/u/3087654)** is bringing us an almost perfectly structured beatmap in every aspect as well as seven guest difficulties. Although the BPM is not really high, you can find challenging patterns such as jacks, long notes, chordstreams and more, specially in **[Critical_Star](https://osu.ppy.sh/u/3793196)**'s. 
+Here we have **[Tidek](https://osu.ppy.sh/u/743282)** this time with a beatmap worth enough for this spotlight. Knowing that **[_underjoy](https://osu.ppy.sh/u/2235750)** has made 2 guest difficulties, we can expect a big and splendful work from this two experienced polish mappers. 
 
-Talking about the hardest map in the set, it has everything mentioned before but way more dense than all the other diffculties as well as a few noticeable Slider Velocity changes at the last section of the map. It has every kind of difficulties, going from 1 star to almost 6 and a half so it's recommended to play to anyone.
+The best thing about this map is that you can actually appreciate how the patterns and scroll speed changes gets harder at the same time in each difficulty if you play them from easiest to hardest. This beatmap is highly recommended if you are fan of scroll speed changes and challenging patterns. Enjoy!
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/exit-this-earth-atomosphere.jpg)](https://osu.ppy.sh/s/575053)
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/altersist.jpg)](https://osu.ppy.sh/s/459950)
 
-It's always a good surprise to find an amazing mapset as a first ranked map, and this is the case with **[Protastic101](https://osu.ppy.sh/u/6712747)**'s set! This set shows a lot of diversity: Burst, Jumpstreams, long notes - but the most amazing point of the set is the usage of Slider Velocity, empathizing a lot of slower parts and creating a really powerful feeling on the harder ones. Overall, it creates a really challenging and technical map set, sprinkled with a lot rare patterns seldom seen in the ranked section.
+**[pwhk](https://osu.ppy.sh/u/4887865)** is back once again with a 7-key BMS style map. With the growing trend of fancy scroll speed changes and unique maps, sometimes it is also nice to look at maps that are kept simplistic yet deliver satisfaction. 
 
-[![](/wiki/shared/news/2017-08-02-beatmap-spotlights-june-2017/rock-it.jpg)](https://osu.ppy.sh/s/569903)
+The beginning simple slowjam that develops with polyrhythms to the first kiai section is very satisfying to nail. The ending section may be a bit biased to favor the left hand space bar users, but this is a very solid map overall. Any pro 7K players who love some challenge should try this map with DoubleTime; the general patterning of this map is very Double Time-friendly yet offers a whole new level of difficulty.
 
-**[Tofu1222](https://osu.ppy.sh/u/6089608)**'s mapset is certainly a surprise for me. Kicking off with a low scroll speed section that slowly speeds up to your usual scroll building up the momentum with a no stop low density handstream into a technical jump-gallops with really flowy dense bursts. Fear not for those who are not capable to play this since the next difficulty from Eedow is as good an as fun to play accuracy wise but just in a lower level. 
+[![](/wiki/shared/news/2017-08-30-beatmap-spotlights-july-2017/bangin-burst.jpg)](https://osu.ppy.sh/s/207525)
 
-This mapset overall is a nice and fun accuracy map hidden there in the ranked pool. It contains great technical elements, some mini long notes and slider velocity changes. I really wanted to give it the chance to be featured here. Well deserved spot for a solid mapset.
+Just when we all thought the days of mapping SDVX songs with the SFX were over, **[Skalim](https://osu.ppy.sh/u/2225008)** gives us Bangin' Burst, an older map first submitted in 2014 with a style reminiscent of its time. Good stack usage and equal hand bias creates a balanced symmetry that's easy to read and comfortable to hit. 
+
+Furthermore, it utilizes some simple stutter SVs where appropriate. With a heavy focus on visuals as well as having some minijacks and basic LN holds and releases, the map provides a unique and varied gameplay experience.
 
 --------
 
