@@ -4,11 +4,11 @@ title: "Anime Remix Themed Spotlights 2018"
 date: 2018-03-05 13:31:35 +0000
 ---
 
-Greetings everyone! We hope all of you have a wonderful and snowy Christmas today and celebrate it with loved ones. For this special day, the Spotlights Team prepared a winter themed spotlight for those who feel like only presents are just not enough. Let's drink some hot tea at this special day while clicking those circles; hitting the drum; catching those healthy fruits and go octopus-mode with the squares!
+Greetings everyone! We are happy to announce that the Themed Spotlights are back! To celebrate this we prepared a special selection of anime remixes for you! Enjoy the songs while clicking those circles; hitting the drum; catching those healthy fruits and go octopus-mode with the squares!
 
 ![](/wiki/shared/news/2018-03-05-anime-remix-themed-spotlights-2018/spotlight-header.jpg)
 
-With that said, we just released the Winter Themed Charts and can be found [here](https://osu.ppy.sh/p/chart?ch=WINCH17). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
+With that said, we just released the Anime Remix Themed Charts and can be found [here](https://osu.ppy.sh/p/chart?ch=ARCH17). Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.
 
 ##osu!
 
@@ -49,6 +49,4 @@ With that said, we just released the Winter Themed Charts and can be found [here
 
 **The Anime Remix Themed Spotlight 2018 will end on the 30th April 2018.**
 
-We wish you a merry christmas and a happy new year with full of top ranks!
-
-—Kurokami
+—Mao, Nardoxyribonucleic
