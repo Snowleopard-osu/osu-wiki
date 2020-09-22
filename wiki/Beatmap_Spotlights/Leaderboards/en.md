@@ -76,53 +76,53 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | 1. | [uone](https://osu.ppy.sh/users/5321719) | ![][taiko-ri2] |
 | 2. | [sing216](https://osu.ppy.sh/users/6096445) | ![][taiko-ri1] |
 | 3. | [Siva Inu](https://osu.ppy.sh/users/7510267) | ![][taiko-ri1] |
-| 4. | [oL0](https://osu.ppy.sh/users/1134683) | ![][taiko-diamond2] |
-| 5. | [J a c k y](https://osu.ppy.sh/users/8011704) | ![][taiko-diamond2] |
-| 6. | [yuzu_rinrin](https://osu.ppy.sh/users/4616752) | ![][taiko-diamond2] |
-| 7. | [HiroK](https://osu.ppy.sh/users/4050738) | ![][taiko-diamond1] |
-| 8. | [Faputa](https://osu.ppy.sh/users/845733) | ![][taiko-diamond1] |
-| 9. | [growATMfarmz](https://osu.ppy.sh/users/12273160) | ![][taiko-diamond1] |
-| 10. | [Nozdormu](https://osu.ppy.sh/users/7169208) | ![][taiko-platinum2] |
-| 11. | [Arrival](https://osu.ppy.sh/users/1694000) | ![][taiko-platinum2] |
-| 12. | [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ![][taiko-platinum2] |
-| 13. | [Brown918](https://osu.ppy.sh/users/9805760) | ![][taiko-platinum2] |
-| 14. | [Antti](https://osu.ppy.sh/users/13281473) | ![][taiko-platinum1] |
-| 15. | [VestaraKhai48](https://osu.ppy.sh/users/7257168) | ![][taiko-platinum1] |
-| 16. | [SHK](https://osu.ppy.sh/users/2660111) | ![][taiko-platinum1] |
-| 17. | [Cookie_Tree](https://osu.ppy.sh/users/502722) | ![][taiko-platinum1] |
-| 18. | [Hydria](https://osu.ppy.sh/users/808176) | ![][taiko-platinum1] |
-| 19. | [OnosakiHito](https://osu.ppy.sh/users/290128) | ![][taiko-platinum1] |
-| 20. | [owatanimal](https://osu.ppy.sh/users/5769293) | ![][taiko-gold2] |
-| 21. | [Lime717](https://osu.ppy.sh/users/7918664) | ![][taiko-gold2] |
-| 22. | [Consified](https://osu.ppy.sh/users/6502903) | ![][taiko-gold2] |
-| 23. | [Boaz](https://osu.ppy.sh/users/13302996) | ![][taiko-gold2] |
-| 24. | [Maeda](https://osu.ppy.sh/users/12615278) | ![][taiko-gold2] |
-| 25. | [Ku_Ren](https://osu.ppy.sh/users/2535243) | ![][taiko-gold2] |
-| 26. | [haga1115](https://osu.ppy.sh/users/6574823) | ![][taiko-gold2] |
-| 27. | [Axer](https://osu.ppy.sh/users/7299864) | ![][taiko-gold2] |
-| 28. | [TwinT](https://osu.ppy.sh/users/9976154) | ![][taiko-gold2] |
-| 29. | [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | ![][taiko-gold1] |
-| 30. | [Strijkljzer](https://osu.ppy.sh/users/4130926) | ![][taiko-gold1] |
-| 31. | [JarHed](https://osu.ppy.sh/users/7488794) | ![][taiko-gold1] |
-| 32. | [Zetera](https://osu.ppy.sh/users/587737) | ![][taiko-gold1] |
-| 33. | [davidminh0111](https://osu.ppy.sh/users/9623142) | ![][taiko-gold1] |
-| 34. | [Hynix](https://osu.ppy.sh/users/10507557) | ![][taiko-gold1] |
-| 35. | [Sanjenin Nagi](https://osu.ppy.sh/users/224280) | ![][taiko-gold1] |
-| 36. | [Ansonjason2005](https://osu.ppy.sh/users/13271178) | ![][taiko-gold1] |
-| 37. | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ![][taiko-gold1] |
-| 38. | [Lafafel](https://osu.ppy.sh/users/2295850) | ![][taiko-gold1] |
-| 39. | [ILOVEMARISA](https://osu.ppy.sh/users/8767392) | ![][taiko-gold1] |
-| 40. | [WTHBRO](https://osu.ppy.sh/users/8957119) | ![][taiko-gold1] |
-| 41. | [chromb](https://osu.ppy.sh/users/10238680) | ![][taiko-gold1] |
-| 42. | [Rocma](https://osu.ppy.sh/users/566276) | ![][taiko-gold1] |
-| 43. | [WonderMan](https://osu.ppy.sh/users/2221895) | ![][taiko-gold1] |
-| 44. | [Doomsday](https://osu.ppy.sh/users/18983) | ![][taiko-gold1] |
-| 45. | [King Hong](https://osu.ppy.sh/users/7263047) | ![][taiko-gold1] |
-| 46. | [Civil oath](https://osu.ppy.sh/users/3216107) | ![][taiko-gold1] |
-| 47. | [Hidden is fun](https://osu.ppy.sh/users/10449071) | ![][taiko-gold1] |
-| 48. | [ChurroChef](https://osu.ppy.sh/users/9258564) | ![][taiko-gold1] |
-| 49. | [Skey](https://osu.ppy.sh/users/7718539) | ![][taiko-silver2] |
-| 50. | [Ulqui](https://osu.ppy.sh/users/1263669) | ![][taiko-silver2] |
+| 4. | [Consified](https://osu.ppy.sh/users/6502903) | ![][taiko-diamond2] |
+| 5. | [oL0](https://osu.ppy.sh/users/1134683) | ![][taiko-diamond2] |
+| 6. | [J a c k y](https://osu.ppy.sh/users/8011704) | ![][taiko-diamond2] |
+| 7. | [yuzu_rinrin](https://osu.ppy.sh/users/4616752) | ![][taiko-diamond2] |
+| 8. | [HiroK](https://osu.ppy.sh/users/4050738) | ![][taiko-diamond1] |
+| 9. | [Faputa](https://osu.ppy.sh/users/845733) | ![][taiko-diamond1] |
+| 10. | [growATMfarmz](https://osu.ppy.sh/users/12273160) | ![][taiko-diamond1] |
+| 11. | [Nozdormu](https://osu.ppy.sh/users/7169208) | ![][taiko-platinum2] |
+| 12. | [Antti](https://osu.ppy.sh/users/13281473) | ![][taiko-platinum2] |
+| 13. | [Reu70](https://osu.ppy.sh/users/10547895) | ![][taiko-platinum2] |
+| 14. | [Arrival](https://osu.ppy.sh/users/1694000) | ![][taiko-platinum2] |
+| 15. | [Cookie_Tree](https://osu.ppy.sh/users/502722) | ![][taiko-platinum1] |
+| 16. | [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ![][taiko-platinum1] |
+| 17. | [Brown918](https://osu.ppy.sh/users/9805760) | ![][taiko-platinum1] |
+| 18. | [VestaraKhai48](https://osu.ppy.sh/users/7257168) | ![][taiko-platinum1] |
+| 19. | [TwinT](https://osu.ppy.sh/users/9976154) | ![][taiko-platinum1] |
+| 20. | [SHK](https://osu.ppy.sh/users/2660111) | ![][taiko-platinum1] |
+| 21. | [Hydria](https://osu.ppy.sh/users/808176) | ![][taiko-gold2] |
+| 22. | [Hynix](https://osu.ppy.sh/users/10507557) | ![][taiko-gold2] |
+| 23. | [OnosakiHito](https://osu.ppy.sh/users/290128) | ![][taiko-gold2] |
+| 24. | [Ansonjason2005](https://osu.ppy.sh/users/13271178) | ![][taiko-gold2] |
+| 25. | [owatanimal](https://osu.ppy.sh/users/5769293) | ![][taiko-gold2] |
+| 26. | [Strijkljzer](https://osu.ppy.sh/users/4130926) | ![][taiko-gold2] |
+| 27. | [Yuemiao](https://osu.ppy.sh/users/4493348) | ![][taiko-gold2] |
+| 28. | [Lime717](https://osu.ppy.sh/users/7918664) | ![][taiko-gold2] |
+| 29. | [Boaz](https://osu.ppy.sh/users/13302996) | ![][taiko-gold2] |
+| 30. | [Maeda](https://osu.ppy.sh/users/12615278) | ![][taiko-gold2] |
+| 31. | [Ku_Ren](https://osu.ppy.sh/users/2535243) | ![][taiko-gold1] |
+| 32. | [haga1115](https://osu.ppy.sh/users/6574823) | ![][taiko-gold1] |
+| 33. | [Axer](https://osu.ppy.sh/users/7299864) | ![][taiko-gold1] |
+| 34. | [Foxeru](https://osu.ppy.sh/users/7479684) | ![][taiko-gold1] |
+| 35. | [Bitcoin](https://osu.ppy.sh/users/654296) | ![][taiko-gold1] |
+| 36. | [Skey](https://osu.ppy.sh/users/7718539) | ![][taiko-gold1] |
+| 37. | [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | ![][taiko-gold1] |
+| 38. | [JarHed](https://osu.ppy.sh/users/7488794) | ![][taiko-gold1] |
+| 39. | [Zetera](https://osu.ppy.sh/users/587737) | ![][taiko-gold1] |
+| 40. | [davidminh0111](https://osu.ppy.sh/users/9623142) | ![][taiko-gold1] |
+| 41. | [Doomsday](https://osu.ppy.sh/users/18983) | ![][taiko-gold1] |
+| 42. | [Sanjenin Nagi](https://osu.ppy.sh/users/224280) | ![][taiko-gold1] |
+| 43. | [Kuron-kun](https://osu.ppy.sh/users/2697284) | ![][taiko-gold1] |
+| 44. | [enjoyit1025](https://osu.ppy.sh/users/2206844) | ![][taiko-gold1] |
+| 45. | [Hidden is fun](https://osu.ppy.sh/users/10449071) | ![][taiko-gold1] |
+| 46. | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ![][taiko-gold1] |
+| 47. | [Lafafel](https://osu.ppy.sh/users/2295850) | ![][taiko-gold1] |
+| 48. | [ILOVEMARISA](https://osu.ppy.sh/users/8767392) | ![][taiko-gold1] |
+| 49. | [WTHBRO](https://osu.ppy.sh/users/8957119) | ![][taiko-gold1] |
+| 50. | [chromb](https://osu.ppy.sh/users/10238680) | ![][taiko-gold1] |
 
 ### osu!catch
 
