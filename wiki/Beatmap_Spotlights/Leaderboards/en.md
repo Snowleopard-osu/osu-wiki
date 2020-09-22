@@ -129,55 +129,55 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | Placement | Name | Badge |
 | :--: | :--: | :--: |
 | 1. | [Crystal](https://osu.ppy.sh/users/1646397) | ![][catch-ri2] |
-| 2. | [Rocma](https://osu.ppy.sh/users/566276) | ![][catch-ri1] |
-| 3. | [Dusk](https://osu.ppy.sh/users/533210) | ![][catch-ri1] |
-| 4. | [dika312](https://osu.ppy.sh/users/741613) | ![][catch-diamond2] |
-| 5. | [-Ken](https://osu.ppy.sh/users/4430811) | ![][catch-diamond2] |
-| 6. | [- N a g i -](https://osu.ppy.sh/users/2956936) | ![][catch-diamond2] |
-| 7. | [SHK](https://osu.ppy.sh/users/2660111) | ![][catch-diamond1] |
+| 2. | [-Ken](https://osu.ppy.sh/users/4430811) | ![][catch-ri1] |
+| 3. | [Rocma](https://osu.ppy.sh/users/566276) | ![][catch-ri1] |
+| 4. | [SHK](https://osu.ppy.sh/users/2660111) | ![][catch-diamond2] |
+| 5. | [Dusk](https://osu.ppy.sh/users/533210) | ![][catch-diamond2] |
+| 6. | [dika312](https://osu.ppy.sh/users/741613) | ![][catch-diamond2] |
+| 7. | [- N a g i -](https://osu.ppy.sh/users/2956936) | ![][catch-diamond1] |
 | 8. | [Predominator](https://osu.ppy.sh/users/4568537) | ![][catch-diamond1] |
 | 9. | [Chatie](https://osu.ppy.sh/users/6524765) | ![][catch-diamond1] |
 | 10. | [Nelly](https://osu.ppy.sh/users/4741164) | ![][catch-diamond1] |
-| 11. | [Ascendance](https://osu.ppy.sh/users/2931883) | ![][catch-platinum2] |
-| 12. | [Deif](https://osu.ppy.sh/users/318565) | ![][catch-platinum2] |
-| 13. | [\-Nirfu\-](https://osu.ppy.sh/users/7332050) | ![][catch-platinum2] |
-| 14. | [Cyanus](https://osu.ppy.sh/users/4624693) | ![][catch-platinum2] |
-| 15. | [Callionet](https://osu.ppy.sh/users/3072921) | ![][catch-platinum2] |
-| 16. | [JBHyperion](https://osu.ppy.sh/users/4879508) | ![][catch-platinum1] |
-| 17. | [KevKjef](https://osu.ppy.sh/users/9114235) | ![][catch-platinum1] |
-| 18. | [Enjuxx](https://osu.ppy.sh/users/10727985) | ![][catch-platinum1] |
-| 19. | [Zeus-](https://osu.ppy.sh/users/5464437) | ![][catch-platinum1] |
-| 20. | [vexAkita](https://osu.ppy.sh/users/8923804) | ![][catch-platinum1] |
-| 21. | [Titan-](https://osu.ppy.sh/users/7855767) | ![][catch-platinum1] |
-| 22. | [Novoids](https://osu.ppy.sh/users/5163523) | ![][catch-gold2] |
-| 23. | [\[\_\-Kukkai\-\_\]](https://osu.ppy.sh/users/7811952) | ![][catch-gold2] |
-| 24. | [Gordon123](https://osu.ppy.sh/users/2789905) | ![][catch-gold2] |
-| 25. | [Roido](https://osu.ppy.sh/users/6829103) | ![][catch-gold2] |
-| 26. | [Spectator](https://osu.ppy.sh/users/702598) | ![][catch-gold2] |
+| 11. | [Ascendance](https://osu.ppy.sh/users/2931883) | ![][catch-diamond1] |
+| 12. | [Nana Tsubasa](https://osu.ppy.sh/users/4948624) | ![][catch-platinum2] |
+| 13. | [Deif](https://osu.ppy.sh/users/318565) | ![][catch-platinum2] |
+| 14. | [KevKjef](https://osu.ppy.sh/users/9114235) | ![][catch-platinum2] |
+| 15. | [\-Nirfu\-](https://osu.ppy.sh/users/7332050) | ![][catch-platinum2] |
+| 16. | [Cyanus](https://osu.ppy.sh/users/4624693) | ![][catch-platinum1] |
+| 17. | [Callionet](https://osu.ppy.sh/users/3072921) | ![][catch-platinum1] |
+| 18. | [JBHyperion](https://osu.ppy.sh/users/4879508) | ![][catch-platinum1] |
+| 19. | [Enjuxx](https://osu.ppy.sh/users/10727985) | ![][catch-platinum1] |
+| 20. | [Zeus-](https://osu.ppy.sh/users/5464437) | ![][catch-platinum1] |
+| 21. | [vexAkita](https://osu.ppy.sh/users/8923804) | ![][catch-platinum1] |
+| 22. | [enjoyit1025](https://osu.ppy.sh/users/2206844) | ![][catch-platinum1] |
+| 23. | [Titan-](https://osu.ppy.sh/users/7855767) | ![][catch-gold2] |
+| 24. | [Novoids](https://osu.ppy.sh/users/5163523) | ![][catch-gold2] |
+| 25. | [\[\_\-Kukkai\-\_\]](https://osu.ppy.sh/users/7811952) | ![][catch-gold2] |
+| 26. | [Gordon123](https://osu.ppy.sh/users/2789905) | ![][catch-gold2] |
 | 27. | [by-ad](https://osu.ppy.sh/users/7439939) | ![][catch-gold2] |
-| 28. | [Kasumii-sama](https://osu.ppy.sh/users/6177263) | ![][catch-gold2] |
-| 29. | [\-Joni\-](https://osu.ppy.sh/users/9988837) | ![][catch-gold2] |
-| 30. | [Leinou](https://osu.ppy.sh/users/7024526) | ![][catch-gold2] |
-| 31. | [Gato2499](https://osu.ppy.sh/users/7857559) | ![][catch-gold2] |
-| 32. | [Terton](https://osu.ppy.sh/users/6955523) | ![][catch-gold2] |
-| 33. | [AutoLs](https://osu.ppy.sh/users/9155988) | ![][catch-gold1] |
-| 34. | [MajorNikolai54](https://osu.ppy.sh/users/7712274) | ![][catch-gold1] |
-| 35. | [aiyulu](https://osu.ppy.sh/users/189617) | ![][catch-gold1] |
-| 36. | [Mafumafu](https://osu.ppy.sh/users/3076909) | ![][catch-gold1] |
-| 37. | [Kerilia](https://osu.ppy.sh/users/7990615) | ![][catch-gold1] |
-| 38. | [Nana Tsubasa](https://osu.ppy.sh/users/4948624) | ![][catch-gold1] |
-| 39. | [Zech](https://osu.ppy.sh/users/5022932) | ![][catch-gold1] |
-| 40. | [Dabo](https://osu.ppy.sh/users/9507660) | ![][catch-gold1] |
-| 41. | [catch the Exgon](https://osu.ppy.sh/users/12081746) | ![][catch-gold1] |
+| 28. | [Roido](https://osu.ppy.sh/users/6829103) | ![][catch-gold2] |
+| 29. | [Spectator](https://osu.ppy.sh/users/702598) | ![][catch-gold2] |
+| 30. | [Kasumii-sama](https://osu.ppy.sh/users/6177263) | ![][catch-gold2] |
+| 31. | [Mafumafu](https://osu.ppy.sh/users/3076909) | ![][catch-gold2] |
+| 32. | [\-Joni\-](https://osu.ppy.sh/users/9988837) | ![][catch-gold2] |
+| 33. | [Leinou](https://osu.ppy.sh/users/7024526) | ![][catch-gold2] |
+| 34. | [Gato2499](https://osu.ppy.sh/users/7857559) | ![][catch-gold2] |
+| 35. | [Terton](https://osu.ppy.sh/users/6955523) | ![][catch-gold1] |
+| 36. | [AutoLs](https://osu.ppy.sh/users/9155988) | ![][catch-gold1] |
+| 37. | [MajorNikolai54](https://osu.ppy.sh/users/7712274) | ![][catch-gold1] |
+| 38. | [Ruiz](https://osu.ppy.sh/users/10095644) | ![][catch-gold1] |
+| 39. | [Bitcoin](https://osu.ppy.sh/users/654296) | ![][catch-gold1] |
+| 40. | [aiyulu](https://osu.ppy.sh/users/189617) | ![][catch-gold1] |
+| 41. | [Kerilia](https://osu.ppy.sh/users/7990615) | ![][catch-gold1] |
 | 42. | [Hidden is fun](https://osu.ppy.sh/users/10449071) | ![][catch-gold1] |
-| 43. | [Icymice](https://osu.ppy.sh/users/8205964) | ![][catch-gold1] |
-| 44. | [PokeSky](https://osu.ppy.sh/users/3617111) | ![][catch-gold1] |
-| 45. | [K 3 V R A L](https://osu.ppy.sh/users/9852829) | ![][catch-gold1] |
-| 46. | [Baron](https://osu.ppy.sh/users/10286499) | ![][catch-gold1] |
-| 47. | [Kuya Frex](https://osu.ppy.sh/users/8868701) | ![][catch-gold1] |
-| 48. | [SadEgg](https://osu.ppy.sh/users/10278243) | ![][catch-gold1] |
-| 49. | [Dilly_P](https://osu.ppy.sh/users/12907431) | ![][catch-gold1] |
-| 50. | [dserha](https://osu.ppy.sh/users/13883562) | ![][catch-gold1] |
+| 43. | [Zech](https://osu.ppy.sh/users/5022932) | ![][catch-gold1] |
+| 44. | [catch the Exgon](https://osu.ppy.sh/users/12081746) | ![][catch-gold1] |
+| 45. | [Dabo](https://osu.ppy.sh/users/9507660) | ![][catch-gold1] |
+| 46. | [Icymice](https://osu.ppy.sh/users/8205964) | ![][catch-gold1] |
+| 47. | [PokeSky](https://osu.ppy.sh/users/3617111) | ![][catch-gold1] |
+| 48. | [K 3 V R A L](https://osu.ppy.sh/users/9852829) | ![][catch-gold1] |
+| 49. | [Baron](https://osu.ppy.sh/users/10286499) | ![][catch-gold1] |
+| 50. | [Faputa](https://osu.ppy.sh/users/845733) | ![][catch-gold1] |
 
 ### osu!mania
 
