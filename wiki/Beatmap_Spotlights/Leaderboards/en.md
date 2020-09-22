@@ -186,53 +186,53 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | 1. | [Cryolien](https://osu.ppy.sh/users/1626983) | ![][mania-ri2] |
 | 2. | [Schopfer](https://osu.ppy.sh/users/11270477) | ![][mania-ri1] |
 | 3. | [KcHecKa](https://osu.ppy.sh/users/4584427) | ![][mania-ri1] |
-| 4. | [Gonzaalooo](https://osu.ppy.sh/users/1948903) | ![][mania-diamond2] |
-| 5. | [Ienpai](https://osu.ppy.sh/users/5314573) | ![][mania-diamond2] |
-| 6. | [by-ad](https://osu.ppy.sh/users/7439939) | ![][mania-diamond2] |
-| 7. | [IdrusShahab](https://osu.ppy.sh/users/8996332) | ![][mania-diamond1] |
+| 4. | [Opean](https://osu.ppy.sh/users/4544555) | ![][mania-diamond2] |
+| 5. | [Gonzaalooo](https://osu.ppy.sh/users/1948903) | ![][mania-diamond2] |
+| 6. | [Ienpai](https://osu.ppy.sh/users/5314573) | ![][mania-diamond2] |
+| 7. | [by-ad](https://osu.ppy.sh/users/7439939) | ![][mania-diamond2] |
 | 8. | [Solleks](https://osu.ppy.sh/users/9683287) | ![][mania-diamond1] |
-| 9. | [SHK](https://osu.ppy.sh/users/2660111) | ![][mania-diamond1] |
-| 10. | [Faputa](https://osu.ppy.sh/users/845733) | ![][mania-platinum2] |
-| 11. | [Irone OSU](https://osu.ppy.sh/users/10678230) | ![][mania-platinum2] |
-| 12. | [yobrevelc](https://osu.ppy.sh/users/14128407) | ![][mania-platinum2] |
-| 13. | [Blight-kun](https://osu.ppy.sh/users/7785754) | ![][mania-platinum2] |
-| 14. | [\[Illustrious\]](https://osu.ppy.sh/users/4082595) | ![][mania-platinum1] |
-| 15. | [Hellnote102](https://osu.ppy.sh/users/2218066) | ![][mania-platinum1] |
-| 16. | [Gaymie](https://osu.ppy.sh/users/2377299) | ![][mania-platinum1] |
-| 17. | [akace100](https://osu.ppy.sh/users/9308128) | ![][mania-platinum1] |
-| 18. | [Opean](https://osu.ppy.sh/users/4544555) | ![][mania-platinum1] |
-| 19. | [Muse Dash](https://osu.ppy.sh/users/13695676) | ![][mania-platinum1] |
-| 20. | [tsusai](https://osu.ppy.sh/users/7637292) | ![][mania-gold2] |
-| 21. | [medium kek](https://osu.ppy.sh/users/11625617) | ![][mania-gold2] |
-| 22. | [Suichan203](https://osu.ppy.sh/users/9821346) | ![][mania-gold2] |
-| 23. | [GhostRevenge](https://osu.ppy.sh/users/8980266) | ![][mania-gold2] |
-| 24. | [Crystal](https://osu.ppy.sh/users/1646397) | ![][mania-gold2] |
-| 25. | [Raveille](https://osu.ppy.sh/users/1388767) | ![][mania-gold2] |
-| 26. | [Gato2499](https://osu.ppy.sh/users/7857559) | ![][mania-gold2] |
-| 27. | [Dilly_P](https://osu.ppy.sh/users/12907431) | ![][mania-gold2] |
-| 28. | [A M D](https://osu.ppy.sh/users/5321112) | ![][mania-gold2] |
-| 29. | [Hidden is fun](https://osu.ppy.sh/users/10449071) | ![][mania-gold2] |
-| 30. | [Callionet](https://osu.ppy.sh/users/3072921) | ![][mania-gold1] |
-| 31. | [Doofyplayer](https://osu.ppy.sh/users/9828552) | ![][mania-gold1] |
-| 32. | [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ![][mania-gold1] |
-| 33. | [DecayingInOsu](https://osu.ppy.sh/users/10690052) | ![][mania-gold1] |
-| 34. | [3zachm](https://osu.ppy.sh/users/8630110) | ![][mania-gold1] |
-| 35. | [Rashod](https://osu.ppy.sh/users/12705051) | ![][mania-gold1] |
-| 36. | [King Hong](https://osu.ppy.sh/users/7263047) | ![][mania-gold1] |
-| 37. | [Toushi](https://osu.ppy.sh/users/2367825) | ![][mania-gold1] |
-| 38. | [PokeSky](https://osu.ppy.sh/users/3617111) | ![][mania-gold1] |
-| 39. | [hero_jeff](https://osu.ppy.sh/users/3375226) | ![][mania-gold1] |
-| 40. | [miminc](https://osu.ppy.sh/users/8472615) | ![][mania-gold1] |
-| 41. | [CrumpetFiddler](https://osu.ppy.sh/users/3518705) | ![][mania-gold1] |
-| 42. | [chromb](https://osu.ppy.sh/users/10238680) | ![][mania-gold1] |
-| 43. | [Joppe27](https://osu.ppy.sh/users/11753018) | ![][mania-gold1] |
-| 44. | [dennischan](https://osu.ppy.sh/users/2875497) | ![][mania-gold1] |
-| 45. | [dserha](https://osu.ppy.sh/users/13883562) | ![][mania-gold1] |
-| 46. | [LoockaNosRitmo](https://osu.ppy.sh/users/14312768) | ![][mania-gold1] |
-| 47. | [Madeline](https://osu.ppy.sh/users/2812098) | ![][mania-gold1] |
-| 48. | [Maxe191](https://osu.ppy.sh/users/2184751) | ![][mania-gold1] |
-| 49. | [Kafuu Cirno](https://osu.ppy.sh/users/4314222) | ![][mania-silver2] |
-| 50. | [cndw](https://osu.ppy.sh/users/8526102) | ![][mania-silver2] |
+| 9. | [IdrusShahab](https://osu.ppy.sh/users/8996332) | ![][mania-diamond1] |
+| 10. | [SHK](https://osu.ppy.sh/users/2660111) | ![][mania-diamond1] |
+| 11. | [Faputa](https://osu.ppy.sh/users/845733) | ![][mania-platinum2] |
+| 12. | [Irone OSU](https://osu.ppy.sh/users/10678230) | ![][mania-platinum2] |
+| 13. | [yobrevelc](https://osu.ppy.sh/users/14128407) | ![][mania-platinum2] |
+| 14. | [miminc](https://osu.ppy.sh/users/8472615) | ![][mania-platinum2] |
+| 15. | [Blight-kun](https://osu.ppy.sh/users/7785754) | ![][mania-platinum1] |
+| 16. | [\[Illustrious\]](https://osu.ppy.sh/users/4082595) | ![][mania-platinum1] |
+| 17. | [Hellnote102](https://osu.ppy.sh/users/2218066) | ![][mania-platinum1] |
+| 18. | [akace100](https://osu.ppy.sh/users/9308128) | ![][mania-platinum1] |
+| 19. | [tsusai](https://osu.ppy.sh/users/7637292) | ![][mania-platinum1] |
+| 20. | [Gaymie](https://osu.ppy.sh/users/2377299) | ![][mania-platinum1] |
+| 21. | [Hidden is fun](https://osu.ppy.sh/users/10449071) | ![][mania-gold2] |
+| 22. | [Muse Dash](https://osu.ppy.sh/users/13695676) | ![][mania-gold2] |
+| 23. | [medium kek](https://osu.ppy.sh/users/11625617) | ![][mania-gold2] |
+| 24. | [Suichan203](https://osu.ppy.sh/users/9821346) | ![][mania-gold2] |
+| 25. | [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ![][mania-gold2] |
+| 26. | [GhostRevenge](https://osu.ppy.sh/users/8980266) | ![][mania-gold2] |
+| 27. | [Crystal](https://osu.ppy.sh/users/1646397) | ![][mania-gold2] |
+| 28. | [enjoyit1025](https://osu.ppy.sh/users/2206844) | ![][mania-gold2] |
+| 29. | [Raveille](https://osu.ppy.sh/users/1388767) | ![][mania-gold2] |
+| 30. | [Gato2499](https://osu.ppy.sh/users/7857559) | ![][mania-gold2] |
+| 31. | [Dilly_P](https://osu.ppy.sh/users/12907431) | ![][mania-gold2] |
+| 32. | [A M D](https://osu.ppy.sh/users/5321112) | ![][mania-gold1] |
+| 33. | [Callionet](https://osu.ppy.sh/users/3072921) | ![][mania-gold1] |
+| 34. | [cocoalatte](https://osu.ppy.sh/users/9059651) | ![][mania-gold1] |
+| 35. | [Doofyplayer](https://osu.ppy.sh/users/9828552) | ![][mania-gold1] |
+| 36. | [Joylintp](https://osu.ppy.sh/users/13579078) | ![][mania-gold1] |
+| 37. | [Sebaex](https://osu.ppy.sh/users/4686036) | ![][mania-gold1] |
+| 38. | [Joppe27](https://osu.ppy.sh/users/11753018) | ![][mania-gold1] |
+| 39. | [DecayingInOsu](https://osu.ppy.sh/users/10690052) | ![][mania-gold1] |
+| 40. | [3zachm](https://osu.ppy.sh/users/8630110) | ![][mania-gold1] |
+| 41. | [\[Crz\]Arkener](https://osu.ppy.sh/users/4116072) | ![][mania-gold1] |
+| 42. | [Rashod](https://osu.ppy.sh/users/12705051) | ![][mania-gold1] |
+| 43. | [King Hong](https://osu.ppy.sh/users/7263047) | ![][mania-gold1] |
+| 44. | [Toushi](https://osu.ppy.sh/users/2367825) | ![][mania-gold1] |
+| 45. | [PokeSky](https://osu.ppy.sh/users/3617111) | ![][mania-gold1] |
+| 46. | [hero_jeff](https://osu.ppy.sh/users/3375226) | ![][mania-gold1] |
+| 47. | [CrumpetFiddler](https://osu.ppy.sh/users/3518705) | ![][mania-gold1] |
+| 48. | [chromb](https://osu.ppy.sh/users/10238680) | ![][mania-gold1] |
+| 49. | [dennischan](https://osu.ppy.sh/users/2875497) | ![][mania-gold1] |
+| 50. | [dserha](https://osu.ppy.sh/users/13883562) | ![][mania-gold1] |
 
 ## Active Timeshift Lobbies
 
