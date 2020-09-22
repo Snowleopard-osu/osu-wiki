@@ -18,10 +18,10 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 
 | Placement | Name | Badge |
 | :--: | :--: | :--: |
-| 1. | [Fangzy](https://osu.ppy.sh/users/4497691) | ![][osu-ri2] |
-| 2. | [DigitalHypno](https://osu.ppy.sh/users/4384207) | ![][osu-ri2] |
-| 3. | [Ideallism](https://osu.ppy.sh/users/3869519) | ![][osu-ri2] |
-| 4. | [Bartek22830](https://osu.ppy.sh/users/6404027) | ![][osu-ri1] |
+| 1. | [DigitalHypno](https://osu.ppy.sh/users/4384207) | ![][osu-ri2] |
+| 2. | [Fangzy](https://osu.ppy.sh/users/4497691) | ![][osu-ri2] |
+| 3. | [Bartek22830](https://osu.ppy.sh/users/6404027) | ![][osu-ri2] |
+| 4. | [Ideallism](https://osu.ppy.sh/users/3869519) | ![][osu-ri1] |
 | 5. | [Koba](https://osu.ppy.sh/users/4448118) | ![][osu-ri1] |
 | 6. | [Crystal](https://osu.ppy.sh/users/1646397) | ![][osu-ri1] |
 | 7. | [Doomsday](https://osu.ppy.sh/users/18983) | ![][osu-ri1] |
@@ -34,40 +34,40 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | 14. | [Willy](https://osu.ppy.sh/users/3521482) | ![][osu-diamond2] |
 | 15. | [Skill](https://osu.ppy.sh/users/7802027) | ![][osu-diamond2] |
 | 16. | [ShirohaMyMommy](https://osu.ppy.sh/users/1603923) | ![][osu-diamond2] |
-| 17. | [Civil oath](https://osu.ppy.sh/users/3216107) | ![][osu-diamond2] |
-| 18. | [Regou](https://osu.ppy.sh/users/419954) | ![][osu-diamond2] |
-| 19. | [_Criller](https://osu.ppy.sh/users/8116659) | ![][osu-diamond1] |
-| 20. | [my angel mode](https://osu.ppy.sh/users/7636779) | ![][osu-diamond1] |
-| 21. | [witchhunted](https://osu.ppy.sh/users/6192320) | ![][osu-diamond1] |
-| 22. | [DeadZoNeD](https://osu.ppy.sh/users/3859506) | ![][osu-diamond1] |
-| 23. | [Satellite](https://osu.ppy.sh/users/1661227) | ![][osu-diamond1] |
-| 24. | [King Hong](https://osu.ppy.sh/users/7263047) | ![][osu-diamond1] |
-| 25. | [TableRaw](https://osu.ppy.sh/users/4372688) | ![][osu-diamond1] |
+| 17. | [StreaminDemon](https://osu.ppy.sh/users/6245906) | ![][osu-diamond2] |
+| 18. | [Civil oath](https://osu.ppy.sh/users/3216107) | ![][osu-diamond2] |
+| 19. | [Regou](https://osu.ppy.sh/users/419954) | ![][osu-diamond2] |
+| 20. | [_Criller](https://osu.ppy.sh/users/8116659) | ![][osu-diamond1] |
+| 21. | [HiroM](https://osu.ppy.sh/users/3359654) | ![][osu-diamond1] |
+| 22. | [my angel mode](https://osu.ppy.sh/users/7636779) | ![][osu-diamond1] |
+| 23. | [witchhunted](https://osu.ppy.sh/users/6192320) | ![][osu-diamond1] |
+| 24. | [DeadZoNeD](https://osu.ppy.sh/users/3859506) | ![][osu-diamond1] |
+| 25. | [Satellite](https://osu.ppy.sh/users/1661227) | ![][osu-diamond1] |
 | 26. | [_YuriNee](https://osu.ppy.sh/users/1794082) | ![][osu-diamond1] |
-| 27. | [Lexion](https://osu.ppy.sh/users/5271371) | ![][osu-diamond1] |
-| 28. | [Nyakko](https://osu.ppy.sh/users/4383554) | ![][osu-diamond1] |
-| 29. | [Shigeru22](https://osu.ppy.sh/users/2581664) | ![][osu-platinum2] |
-| 30. | [Buszek](https://osu.ppy.sh/users/6867478) | ![][osu-platinum2] |
-| 31. | [pel](https://osu.ppy.sh/users/7070424) | ![][osu-platinum2] |
-| 32. | [ColdTooth](https://osu.ppy.sh/users/1654186) | ![][osu-platinum2] |
-| 33. | [1103](https://osu.ppy.sh/users/7306698) | ![][osu-platinum2] |
-| 34. | [Hibiki](https://osu.ppy.sh/users/5413624) | ![][osu-platinum2] |
-| 35. | [iPuncake](https://osu.ppy.sh/users/6633574) | ![][osu-platinum2] |
-| 36. | [Symra](https://osu.ppy.sh/users/6248691) | ![][osu-platinum2] |
-| 37. | [Moshu](https://osu.ppy.sh/users/3611422) | ![][osu-platinum2] |
-| 38. | [Nekoraw](https://osu.ppy.sh/users/4207965) | ![][osu-platinum2] |
-| 39. | [Shinkir0](https://osu.ppy.sh/users/6093148) | ![][osu-platinum2] |
-| 40. | [Lafafel](https://osu.ppy.sh/users/2295850) | ![][osu-platinum2] |
-| 41. | [LosPedros](https://osu.ppy.sh/users/8337056) | ![][osu-platinum2] |
-| 42. | [Walfrid](https://osu.ppy.sh/users/6600809) | ![][osu-platinum2] |
-| 43. | [KinghtC0re](https://osu.ppy.sh/users/7894340) | ![][osu-platinum2] |
-| 44. | [Lime717](https://osu.ppy.sh/users/7918664) | ![][osu-platinum2] |
-| 45. | [Hyotic](https://osu.ppy.sh/users/6386041) | ![][osu-platinum2] |
-| 46. | [Terandr](https://osu.ppy.sh/users/4239101) | ![][osu-platinum2] |
-| 47. | [Thexo](https://osu.ppy.sh/users/4887938) | ![][osu-platinum2] |
-| 48. | [Toushi](https://osu.ppy.sh/users/2367825) | ![][osu-platinum2] |
+| 27. | [King Hong](https://osu.ppy.sh/users/7263047) | ![][osu-diamond1] |
+| 28. | [Shigeru22](https://osu.ppy.sh/users/2581664) | ![][osu-diamond1] |
+| 29. | [enjoyit1025](https://osu.ppy.sh/users/2206844) | ![][osu-diamond1] |
+| 30. | [TableRaw](https://osu.ppy.sh/users/4372688) | ![][osu-diamond1] |
+| 31. | [Lexion](https://osu.ppy.sh/users/5271371) | ![][osu-platinum2] |
+| 32. | [shdewz](https://osu.ppy.sh/users/10000899) | ![][osu-platinum2] |
+| 33. | [Nyakko](https://osu.ppy.sh/users/4383554) | ![][osu-platinum2] |
+| 34. | [Buszek](https://osu.ppy.sh/users/6867478) | ![][osu-platinum2] |
+| 35. | [Bitcoin](https://osu.ppy.sh/users/654296) | ![][osu-platinum2] |
+| 36. | [pel](https://osu.ppy.sh/users/7070424) | ![][osu-platinum2] |
+| 37. | [ColdTooth](https://osu.ppy.sh/users/1654186) | ![][osu-platinum2] |
+| 38. | [1103](https://osu.ppy.sh/users/7306698) | ![][osu-platinum2] |
+| 39. | [Hibiki](https://osu.ppy.sh/users/5413624) | ![][osu-platinum2] |
+| 40. | [sentez](https://osu.ppy.sh/users/8816305) | ![][osu-platinum2] |
+| 41. | [iPuncake](https://osu.ppy.sh/users/6633574) | ![][osu-platinum2] |
+| 42. | [Symra](https://osu.ppy.sh/users/6248691) | ![][osu-platinum2] |
+| 43. | [Moshu](https://osu.ppy.sh/users/3611422) | ![][osu-platinum2] |
+| 44. | [Nekoraw](https://osu.ppy.sh/users/4207965) | ![][osu-platinum2] |
+| 45. | [Shinkir0](https://osu.ppy.sh/users/6093148) | ![][osu-platinum2] |
+| 46. | [Lafafel](https://osu.ppy.sh/users/2295850) | ![][osu-platinum2] |
+| 47. | [LosPedros](https://osu.ppy.sh/users/8337056) | ![][osu-platinum2] |
+| 48. | [Walfrid](https://osu.ppy.sh/users/6600809) | ![][osu-platinum2] |
 | 49. | [Sleepteiner](https://osu.ppy.sh/users/4781004) | ![][osu-platinum2] |
-| 50. | [-Spartan](https://osu.ppy.sh/users/5783061) | ![][osu-platinum2] |
+| 50. | [KinghtC0re](https://osu.ppy.sh/users/7894340) | ![][osu-platinum2] |
 
 ### osu!taiko
 
